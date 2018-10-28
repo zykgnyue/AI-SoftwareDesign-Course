@@ -10,4 +10,10 @@
 2. The contents
 3. Course Evaluation
 
+![Neural Network ](images/nn-1.jpg "Neural network model")
+
+![Deep Learning](images/deeplearning-1.jpg "Deep learning model")
+
+![LeNet Learning](images/lenet-1.jpg "LeNet model")
+
 ...in building... 
