@@ -9,6 +9,7 @@
 
 2. The contents
 3. Course Evaluation
+4. AI related models
 
 ![Neural Network ](images/nn-1.jpg "Neural network model")
 
