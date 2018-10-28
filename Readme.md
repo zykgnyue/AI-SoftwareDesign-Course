@@ -18,4 +18,5 @@
 ![LeNet Learning](images/lenet-1.jpg "LeNet model")
 
 5. [Intel AI learning resources](https://software.intel.com/zh-cn/ai-academy/students/kits)
-...in building...
+
+__...in building...__
